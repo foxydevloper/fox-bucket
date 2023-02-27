@@ -1,6 +1,6 @@
 {
-  "version": "0.543",
-  "url": "https://github.com/Roblox/luau/releases/download/0.543/luau-windows.zip",
+  "version": "0.565",
+  "url": "https://github.com/Roblox/luau/releases/download/0.565/luau-windows.zip",
   "bin": [
     "luau.exe",
     "luau-analyze.exe"
