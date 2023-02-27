@@ -1,0 +1,15 @@
+{
+  "version": "0.543",
+  "url": "https://github.com/Roblox/luau/releases/download/0.543/luau-windows.zip",
+  "bin": [
+    "luau.exe",
+    "luau-analyze.exe"
+  ],
+  "homepage": "https://github.com/Roblox/luau",
+  "shortcuts": [
+    [
+      "luau.exe",
+      "Luau REPL"
+    ]
+  ]
+}
