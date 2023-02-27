@@ -1,7 +1,7 @@
 {
-  "version": "0.6.22",
+  "version": "0.6.52",
   "homepage": "https://github.com/woelper/oculante",
-  "url": "https://github.com/woelper/oculante/releases/download/0.6.22/oculante.exe",
+  "url": "https://github.com/woelper/oculante/releases/download/0.6.52/oculante.exe",
   "bin": "oculante.exe",
   "shortcuts": [
     [
